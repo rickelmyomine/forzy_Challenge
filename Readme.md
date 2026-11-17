@@ -1,3 +1,10 @@
+## Demonstração ao Vivo
+
+Acesse o dashboard interativo implantado no Streamlit Cloud: **[forzyapp.streamlit.app](https://forzyapp.streamlit.app/)**
+
+* **Usuário de teste:** `gerente`
+* **Senha:** `1234`
+
 🚀 Requisitos Funcionais e Técnicos Implementados
 1. Filtro e Navegação Hierárquica (Planta / Área)
 Interface dinâmica na barra lateral que permite filtrar ativos com base na sua localização geográfica e operacional (ex: Planta Matriz SP vs Planta Filial MG).
